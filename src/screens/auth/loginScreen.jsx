@@ -17,6 +17,7 @@ export default function LoginScreen() {
     <div className="login-screen fixed inset-0 w-full h-full z-[9999] bg-white overflow-hidden">
       <div className="spline-wrapper spline-full absolute inset-0">
         <Spline scene="https://prod.spline.design/8Ew6x4KBrv8H8LeZ/scene.splinecode" />
+
       </div>
 
       {/* Gradient Overlays */}
